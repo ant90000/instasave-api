@@ -12,7 +12,7 @@ export default async function handler(req, res) {
         method: "GET",
         headers: {
           "x-rapidapi-host": "instagram-downloader-download-instagram-stories-videos4.p.rapidapi.com",
-          "x-rapidapi-key": "PASTE_YOUR_API_KEY_HERE"
+          "x-rapidapi-key": "03fcb53786msh1bdb6426ce29668p13bed1jsn4fa27e80521f"
         }
       }
     );
